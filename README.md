@@ -1,4 +1,4 @@
-pip install netmanagement.online# GoCardless CLI
+pip install gocardless # GoCardless CLI
 
 The GC CLI is a developer tool that helps developers to build, test and manage their integration with GC, directly from their terminal.
 
